@@ -1,4 +1,4 @@
-# Hi there, I'm @zeeesoares 👋!
+# Hi there, I'm @zeeesoares ! 👋
 
 ## About me:
 - 🌱 I’m 18 years old and my goal is becoming a programmer.
