@@ -15,11 +15,6 @@
   </ul>
 </p>
 <br>
-<div align="center">
-  <img width="30%" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
-</div>
-
-<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
