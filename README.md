@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm zeeesoares</h1>
 <h3 align="center">A passionate (student) programmer from Portugal</h3>
-
 <h3 align="left">About me:</h3>
 <p align="left">
   <ul>
@@ -15,6 +14,7 @@
       </li>
   </ul>
 </p>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -29,10 +29,13 @@
   </a> 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeesoares&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="zeeesoares" />
-</p>
+<br>
+<div>
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeesoares&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="zeeesoares" />
+  </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeeesoares&show_icons=true&theme=tokyonight&locale=en" alt="zeeesoares" />
-</p>
+  <p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeeesoares&show_icons=true&theme=tokyonight&locale=en" alt="zeeesoares" />
+  </p>
+</div>
