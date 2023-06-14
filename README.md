@@ -10,12 +10,16 @@
           🎓 I’m currently learning Computer Science and engineering at Universidade do Minho.
       </li>
       <li>
-          📫 How to reach me : zecostasoares04@gmail.com
+          📫 How to reach me: zecostasoares04@gmail.com
       </li>
   </ul>
 </p>
 <br>
+<div align="center">
+  <img width="40%" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+</div>
 
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -28,7 +32,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
 </p>
-
 <br>
 <div>
   <p>
