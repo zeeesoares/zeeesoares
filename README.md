@@ -4,7 +4,7 @@
 <p align="left">
   <ul>
       <li>
-          🌱 I’m 18 years old.
+          🌱 I’m 19 years old.
       </li>
       <li>
           🎓 I’m currently learning Computer Science and engineering at Universidade do Minho.
