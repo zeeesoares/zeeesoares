@@ -1,19 +1,6 @@
-<h1 align="center">Hi 👋, I'm zeeesoares</h1>
+<h1 align="center">Hi 👋, I'm José Soares! </h1>
 <h3 align="center">A (student) programmer from Portugal</h3>
-<h3 align="left">About me:</h3>
-<p align="left">
-  <ul>
-      <li>
-          🌱 I’m 19 years old.
-      </li>
-      <li>
-          🎓 I’m currently learning Computer Science and engineering at Universidade do Minho.
-      </li>
-      <li>
-          📫 How to reach me: zecostasoares04@gmail.com
-      </li>
-  </ul>
-</p>
+
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
