@@ -5,7 +5,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=haskell,c,java,bash,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=haskell,c,java,bash,linux)]()
 
 <br>
 <div>
