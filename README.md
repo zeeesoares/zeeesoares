@@ -26,6 +26,19 @@
 <br>
 
 ### Languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=haskell,c,java,bash,linux)]()
-
+<a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=haskell" alt="haskell" width="40" height="40"/>
+</a> 
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
+</a> 
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> 
+</a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> 
+</a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
+</a> 
 
