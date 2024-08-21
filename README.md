@@ -42,3 +42,14 @@
   <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
 </a> 
 
+<br>
+
+<a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/>
+</a> 
+<a href="https://devdocs.io/css/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/>
+</a> 
+<a href="https://www.javascript.com/learn" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>
+</a> 
