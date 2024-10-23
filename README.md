@@ -2,9 +2,7 @@
 
 <body>
 <h1 align="center">Hi 👋, I'm José Soares! </h1>
-<p>
-- Currently, a student software engineer passionate for developing new tools and technologies but, above all, the future.  
-</p>
+<h3 align="center">Currently, a student software engineer passionate for developing new tools and technologies but, above all, the future. </h3> 
 
 <br>
 
