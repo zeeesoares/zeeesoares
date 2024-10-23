@@ -2,7 +2,7 @@
 
 <body>
 <h1 align="center">Hi 👋, I'm José Soares! </h1>
-<h3 align="center">A (student) programmer from Portugal!</h3>
+- Currently, a student software engineer passionate for developing new tools and technologies but, above all, the future.
 
 <br>
 
