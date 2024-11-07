@@ -2,7 +2,7 @@
 
 <body>
 <h1 align="center">Hi 👋, I'm José Soares! </h1>
-<h3 align="center">Currently, a student software engineer at UMinho. </h3> 
+<h3 align="center">Currently, a software engineer student at UMinho. </h3> 
 
 <br>
 
