@@ -32,6 +32,9 @@
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
 </a> 
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/>
+</a>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> 
 </a> 
@@ -41,3 +44,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
 </a> 
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/>
+</a>
+
