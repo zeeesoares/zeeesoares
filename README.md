@@ -47,7 +47,20 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
 </a> 
+<br>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/>
 </a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/>
+</a>
+<a href="https://w3.org/Style/CSS/Overview.en.html/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/>
+</a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=javascript" alt="js" width="40" height="40"/>
+</a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=python" alt="phyton" width="40" height="40"/>
+</a> 
 
