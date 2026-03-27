@@ -20,7 +20,7 @@
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnubash&logoColor=4EAA25)
 ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim&logoColor=019733)
 
-**Ferramentas de Desenvolvimento**  
+**Development Tools**  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=FF6C37)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E)
